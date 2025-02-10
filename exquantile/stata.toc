@@ -2,4 +2,4 @@
 1
 2
 3
-p dea Data envelopment analysis
+p exquantile Executes estimation and inference for (conditional) extremal quantiles Use exquantile With STATA 18
