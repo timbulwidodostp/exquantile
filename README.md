@@ -1,6 +1,8 @@
 # exquantile
 Executes estimation and inference for (conditional) extremal quantiles Use exquantile With STATA 18
 
+https://www.youtube.com/watch?v=_cukFzmQ1Tg
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
